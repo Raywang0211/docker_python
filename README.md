@@ -1,25 +1,20 @@
 Docker 學習
-====================================
-什麼是Docker？
 
+什麼是Docker？
 虛擬環境
 
-====================================
 官方網站
 https://www.docker.com/
 
-
-====================================
 版本選擇
 Docker Engine - Community <選這個>
 Docker Engine - Enterprise
 Docker Enterprise
 
-====================================
 安裝教學
-https://coordinated-market-2dd.notion.site/Docker-240c40745b7b4160b4939df29aba88fc
+https://medium.com/@asd73578107357810/docker-%E5%AE%89%E8%A3%9D%E7%B0%A1%E5%96%AE%E6%95%99%E5%AD%B8-8473d407d775
 
-====================================
+
 Docker 基本操作 
 同時搭配git hub練習
 1. 在git創建一個新的repository並且clone下來準備
